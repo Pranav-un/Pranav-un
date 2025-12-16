@@ -1,4 +1,4 @@
-# 💫 About Me:
+## Hi there 👋
 I’m an MCA student and Backend-focused engineer skilled in Java + Spring Boot, building real-world systems with clean APIs and solid with a strong interest in building practical, scalable software rather than chasing buzzwords. I focus on understanding how systems work end-to-end — from core programming concepts to real-world application development. I prefer learning by building, breaking, and fixing things.
 
 # 💻 Tech Stack:
