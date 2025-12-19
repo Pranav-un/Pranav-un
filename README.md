@@ -38,6 +38,7 @@
   <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=html" height="60" alt="html5 logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="50" alt="jira logo"  />
